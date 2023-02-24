@@ -1,0 +1,169 @@
+Timestamp	input sample id	Input 32 well plate section [A]	Input 32 well plate section [B]	Input 32 well plate section [C]	Input 32 well plate section [D]	Input 32 well plate section [E]	Input 32 well plate section [F]	Input 32 well plate section [G]	Input 32 well plate section [H]
+5/4/2022 16:05:45	WA1_T0_1	Empty row flag	Empty row flag	1, 2, 3, 4	4			Empty row flag	Empty row flag
+5/4/2022 16:06:44	WA1_T0_2	Empty row flag	Empty row flag	1, 2, 3, 4	4			Empty row flag	Empty row flag
+5/4/2022 16:07:51	WA1_T0_3	Empty row flag	Empty row flag	1, 2, 4	1, 4	1			Empty row flag
+5/4/2022 16:11:11	WA1_T0_4	Empty row flag	1	1, 2, 3, 4	2, 4			Empty row flag	Empty row flag
+5/4/2022 16:11:47	RML7_T0_1	Empty row flag	Empty row flag	1, 2, 4	1			Empty row flag	Empty row flag
+5/4/2022 16:12:15	RML7_T0_2	Empty row flag	Empty row flag	1, 2, 3, 4	3			Empty row flag	Empty row flag
+5/4/2022 16:12:57	RML7_T0_3	Empty row flag	1, 2, 3, 4	2, 3	2			Empty row flag	Empty row flag
+5/4/2022 16:14:13	RML7_T0_4	Empty row flag	1, 2, 3, 4	1, 2, 4				Empty row flag	Empty row flag
+5/4/2022 16:14:46	Alpha_T0_1	Empty row flag	1, 2, 3, 4	1, 2, 3, 4	2	1			Empty row flag
+5/4/2022 16:16:05	Alpha_T0_2	Empty row flag	Empty row flag	1, 2, 3, 4	1, 4	2			Empty row flag
+5/4/2022 16:16:32	Alpha_T0_3	Empty row flag	Empty row flag	1, 2, 3, 4	3	1			Empty row flag
+5/4/2022 16:16:56	Alpha_T0_4	Empty row flag	Empty row flag	1, 2, 3, 4	1, 2, 3	2			Empty row flag
+5/4/2022 16:17:30	Beta_T0_1	Empty row flag	Empty row flag	1, 2, 3, 4				Empty row flag	Empty row flag
+5/4/2022 16:17:54	Beta_T0_2	Empty row flag	Empty row flag	1, 2, 3, 4	3			Empty row flag	Empty row flag
+5/4/2022 16:18:19	Beta_T0_3	Empty row flag	Empty row flag	1, 2, 3, 4	2, 3			Empty row flag	Empty row flag
+5/4/2022 16:19:03	Beta_T0_4	Empty row flag	Empty row flag	1, 2, 3, 4	1	3			Empty row flag
+5/4/2022 16:19:31	Delta_T0_1	Empty row flag	Empty row flag	1, 2, 3, 4	1, 2, 3, 4			Empty row flag	Empty row flag
+5/4/2022 16:20:12	Delta_T0_2			1, 2, 3, 4	1	1, 3			Empty row flag
+5/4/2022 16:27:12	Delta_T0_3	Empty row flag	1, 2, 3, 4	1, 2, 3, 4	1, 2, 3			Empty row flag	Empty row flag
+5/4/2022 16:27:36	Delta_T0_4	Empty row flag	1, 2, 3, 4	1, 2, 3, 4	1, 2, 4			Empty row flag	Empty row flag
+5/4/2022 16:28:29	Omicron_T0_1	Empty row flag	1, 2, 3, 4	1, 4			Empty row flag	Empty row flag	Empty row flag
+5/4/2022 16:29:04	Omicron_T0_2	Empty row flag	1, 2, 3, 4	4				Empty row flag	Empty row flag
+5/4/2022 16:29:32	Omicron_T0_3	Empty row flag	1, 2, 3, 4					Empty row flag	Empty row flag
+5/4/2022 16:30:09	Omicron_T0_4	Empty row flag	1, 2, 3, 4	1, 4	3			Empty row flag	Empty row flag
+5/4/2022 16:31:17	WA1_T1_1	Empty row flag	Empty row flag	1, 2, 3, 4			Empty row flag	Empty row flag	Empty row flag
+5/4/2022 16:31:36	WA1_T1_2	Empty row flag	Empty row flag	1, 2, 3, 4			Empty row flag	Empty row flag	Empty row flag
+5/4/2022 16:32:04	WA1_T1_3	Empty row flag	Empty row flag	1, 2, 3, 4	2			Empty row flag	Empty row flag
+5/4/2022 16:32:49	WA1_T1_4	Empty row flag	1, 2, 3, 4	1, 3, 4	3			Empty row flag	Empty row flag
+5/4/2022 16:33:33	RML7_T1_1	Empty row flag	1, 2, 3, 4	1, 2, 4	3			Empty row flag	Empty row flag
+5/4/2022 16:34:01	RML7_T1_2	Empty row flag	1, 2, 3, 4	1, 2, 3	3			Empty row flag	Empty row flag
+5/4/2022 16:34:28	RML7_T1_3	Empty row flag	Empty row flag	1, 2, 3, 4	4			Empty row flag	Empty row flag
+5/4/2022 16:34:51	RML7_T1_4	Empty row flag	Empty row flag	1, 2, 4	3			Empty row flag	Empty row flag
+5/4/2022 16:35:35	Alpha_T1_1	Empty row flag	Empty row flag	1, 2, 3, 4	1			Empty row flag	Empty row flag
+5/4/2022 16:35:58	Alpha_T1_2	Empty row flag	Empty row flag	1, 2, 3, 4	1, 2	2			Empty row flag
+5/4/2022 16:36:19	Alpha_T1_3	Empty row flag	Empty row flag	1, 2, 3, 4	3			Empty row flag	Empty row flag
+5/4/2022 16:36:42	Alpha_T1_4	Empty row flag	Empty row flag	1, 2, 3, 4	2, 3			Empty row flag	Empty row flag
+5/5/2022 17:25:54	Beta_T1_1	Empty row flag	1, 2, 3, 4	1, 3, 4	3, 4			Empty row flag	Empty row flag
+5/5/2022 17:26:22	Beta_T1_2	Empty row flag	1, 2, 3, 4	1, 2, 3, 4				Empty row flag	Empty row flag
+5/5/2022 17:26:50	Beta_T1_3	Empty row flag	1, 2, 3, 4	1, 2, 3	1			Empty row flag	Empty row flag
+5/5/2022 17:27:13	Beta_T1_4	Empty row flag	Empty row flag	1, 2, 3, 4	2, 3			Empty row flag	Empty row flag
+5/5/2022 17:27:49	Delta_T1_1	Empty row flag	Empty row flag	1, 2, 3, 4	3, 4			Empty row flag	Empty row flag
+5/5/2022 17:28:14	Delta_T1_2	Empty row flag	Empty row flag	1, 2, 3, 4	1, 2, 4			Empty row flag	Empty row flag
+5/5/2022 17:28:39	Delta_T1_3	Empty row flag	1, 2, 3, 4	1, 2, 3, 4	1, 2			Empty row flag	Empty row flag
+5/5/2022 17:29:11	Delta_T1_4	Empty row flag	1, 2, 3, 4	1, 2, 3, 4	1, 2, 3, 4			Empty row flag	Empty row flag
+5/5/2022 17:29:35	Omicron_T1_1	Empty row flag	1, 2, 3, 4			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:29:57	Omicron_T1_2	Empty row flag	1, 2, 3, 4	4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:30:17	Omicron_T1_3	Empty row flag	1, 2, 3, 4	1, 2			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:30:35	Omicron_T1_4	Empty row flag	1, 2, 3	1			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:32:38	WA1_T8_1	Empty row flag	1, 2, 3, 4	1, 2			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:33:02	WA1_T8_2	Empty row flag	1, 2, 3, 4	1, 2, 3, 4	2			Empty row flag	Empty row flag
+5/5/2022 17:33:21	WA1_T8_3	Empty row flag	1, 2, 3, 4	1, 2, 4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:33:37	WA1_T8_4	Empty row flag	Empty row flag	1, 2, 3			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:34:06	RML7_T8_1	Empty row flag	Empty row flag	1, 3	3			Empty row flag	Empty row flag
+5/5/2022 17:34:26	RML7_T8_2	Empty row flag	Empty row flag	2, 4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:35:06	RML7_T8_3	Empty row flag	1, 2, 3, 4	2, 3, 4				Empty row flag	Empty row flag
+5/5/2022 17:35:26	RML7_T8_4	Empty row flag	1, 2, 3, 4	1				Empty row flag	Empty row flag
+5/5/2022 17:35:59	Alpha_T8_1	Empty row flag	1, 2, 3, 4	1, 2, 3, 4	2, 4			Empty row flag	Empty row flag
+5/5/2022 17:36:27	Alpha_T8_2	Empty row flag	Empty row flag	1, 2, 3, 4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:36:46	Alpha_T8_3	Empty row flag	Empty row flag	1, 2, 3, 4	1			Empty row flag	Empty row flag
+5/5/2022 17:37:05	Alpha_T8_4	Empty row flag	Empty row flag	1, 2, 3			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:37:27	Beta_T8_1	Empty row flag	Empty row flag	1, 2, 3, 4				Empty row flag	Empty row flag
+5/5/2022 17:37:53	Beta_T8_2	Empty row flag	Empty row flag	1, 2, 4	1			Empty row flag	Empty row flag
+5/5/2022 17:38:16	Beta_T8_3	Empty row flag	Empty row flag	1, 4	3			Empty row flag	Empty row flag
+5/5/2022 17:38:44	Beta_T8_4	Empty row flag	1, 2, 3, 4	1, 2, 4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:39:14	Delta_T8_1	Empty row flag	1, 2, 3, 4	1, 2, 3, 4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:39:34	Delta_T8_2	Empty row flag	1, 2, 3, 4	2, 3, 4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:46:07	Delta_T8_3	Empty row flag	1, 2, 3, 4	1, 2, 3, 4				Empty row flag	Empty row flag
+5/5/2022 17:46:39	Delta_T8_4	Empty row flag	1, 2, 3	1, 2, 3, 4	1			Empty row flag	Empty row flag
+5/5/2022 17:47:28	Omicron_T8_1	Empty row flag	1, 2, 4			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:48:05	Omicron_T8_2	Empty row flag	1, 3, 4	3			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:48:24	Omicron_T8_3	Empty row flag	1, 4			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:48:44	Omicron_T8_4	Empty row flag	1, 2, 4			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:54:24	WA1_T24_1	1, 2, 3, 4	2, 3, 4	4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:54:46	WA1_T24_2	1, 2, 3, 4	1, 2, 4				Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:55:07	WA1_T24_3	1, 2, 3, 4	1, 2, 3, 4				Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:55:28	WA1_T24_4	Empty row flag	1, 2, 3			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:57:27	RML7_T24_1	Empty row flag	1, 3, 4			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 17:58:34	RML7_T24_2	Empty row flag	1, 3	1			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:02:17	RML7_T24_3	Empty row flag	1, 3, 4			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:02:37	RML7_T24_4	Empty row flag	1, 2, 3	4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:03:00	Alpha_T24_1	Empty row flag	1, 2, 3, 4	3			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:03:30	Alpha_T24_2	Empty row flag	1, 2, 3, 4	2			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:03:50	Alpha_T24_3	Empty row flag	1, 2, 3, 4				Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:04:07	Alpha_T24_4	Empty row flag	1, 2, 3, 4	4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:04:49	Beta_T24_1	1, 2, 3, 4	2, 3			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:05:36	Beta_T24_2	1, 2, 3, 4	1, 2, 4		2			Empty row flag	Empty row flag
+5/5/2022 18:06:01	Beta_T24_3	1, 2, 3, 4	2, 3, 4	2, 3			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:06:30	Beta_T24_4	Empty row flag	2, 4				Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:06:49	Delta_T24_1	Empty row flag	2, 3, 4	1			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:07:05	Delta_T24_2	Empty row flag	1, 2, 3, 4	2			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:07:24	Delta_T24_3	1, 2, 3, 4	1, 3			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:07:42	Delta_T24_4	1, 2, 3, 4	1, 3			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:08:07	Omicron_T24_1	1, 3				Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:08:23	Omicron_T24_2	2	3			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:08:44	Omicron_T24_3		4			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:09:00	Omicron_T24_4	1				Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:09:27	WA1_T48_1	2, 4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:09:52	WA1_T48_2				Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:10:11	WA1_T48_3	3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:11:19	WA1_T48_4	2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:11:42	RML7_T48_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:12:00	RML7_T48_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:12:16	RML7_T48_3	2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:12:30	RML7_T48_4	1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:12:50	Alpha_T48_1	1, 3	1			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:13:10	Alpha_T48_2	1, 4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:13:32	Alpha_T48_3	2, 3, 4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:13:55	Alpha_T48_4	2, 3, 4		4			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:14:19	Beta_T48_1	3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:14:34	Beta_T48_2	4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:14:51	Beta_T48_3	3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:15:47	Beta_T48_4	1, 2, 3, 4		2			Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:16:00	Delta_T48_1	1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:16:14	Delta_T48_2				Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:16:34	Delta_T48_3	3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:16:44	Delta_T48_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:16:55	Omicron_T48_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:17:11	Omicron_T48_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:17:23	Omicron_T48_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:17:35	Omicron_T48_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:17:51	WA1_T72_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:18:45	WA1_T72_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:19:04	WA1_T72_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:19:21	WA1_T72_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:19:33	RML7_T72_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:19:47	RML7_T72_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:20:01	RML7_T72_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:20:34	RML7_T72_4	3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:20:45	Alpha_T72_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:20:57	Alpha_T72_2	2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:21:09	Alpha_T72_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:21:22	Alpha_T72_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:21:39	Beta_T72_1	4	4			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:21:49	Beta_T72_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:22:01	Beta_T72_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:22:37	Beta_T72_4				Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:23:04	Delta_T72_1				Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:23:20	Delta_T72_2		2			Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:23:32	Delta_T72_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:23:46	Delta_T72_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:23:56	Omicron_T72_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:24:08	Omicron_T72_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:24:19	Omicron_T72_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:24:33	Omicron_T72_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:24:56	WA1_T96_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:25:07	WA1_T96_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:25:16	WA1_T96_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:25:25	WA1_T96_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:25:38	RML7_T96_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:25:45	RML7_T96_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:25:55	RML7_T96_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:26:04	RML7_T96_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:26:18	Alpha_T96_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:26:27	Alpha_T96_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:26:34	Alpha_T96_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:26:41	Alpha_T96_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:26:53	Beta_T96_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:27:02	Beta_T96_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:27:10	Beta_T96_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:27:23	Beta_T96_4	4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:27:36	Delta_T96_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:27:49	Delta_T96_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:27:59	Delta_T96_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:28:08	Delta_T96_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:28:21	Omicron_T96_1			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:28:29	Omicron_T96_2			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:28:38	Omicron_T96_3			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
+5/5/2022 18:28:45	Omicron_T96_4			Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag	Empty row flag
