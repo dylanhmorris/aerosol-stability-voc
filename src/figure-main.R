@@ -84,7 +84,18 @@ figure_theme_base <- (
           plot.margin = margin(l = 0.05, r = 0.1,
                                unit = "in")))
 
-# make sure point of halfeye plot pointintervals are visible
+## main text figures have no background grid,
+## per journal requirements
+if(grepl("figure-main.pdf", outpath) |
+   grepl("figure-main-surface.pdf", outpath)){
+    figure_theme_base <- (
+        figure_theme_base +
+        theme(
+            panel.grid.major = element_blank(),
+            panel.grid.minor = element_blank()))
+}
+
+## make sure point of halfeye plot pointintervals are visible
 density_y_scale <- scale_y_continuous(expand = c(0.125, 0))
 
 surface <- (hl_chains@model_name == "infer_halflives")
